@@ -6,11 +6,12 @@
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishn99&label=Profile%20views&color=0e75b6&style=flat" alt="vaishn99" /> </p>
 
-
-- 🤝 I’m looking for help with **Deep generative models**,**Reinforecement learning**
+<!--
+-🤝 I’m looking for help with **Deep generative models**,**Reinforecement learning**
 
 - 💬 Ask me about **Deep generative models**
-
+-->
+                                                                                                                                     
 - 📫 How to reach me **vaishnavkv99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
